@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Opciones">
+        <item>Casino Santa Fe</item>
+        <item>Casino Rosario</item>
+        <item>Casino Buenos Aires</item>
+        <item>Casino Entre Rios</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">app_estacionamiento</string>
+    <string name="txtLogo1">Donde</string>
+    <string name="txtLogo2">Estaciono?</string>
+    <string name="imgLogo">Logo</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="txtClave">Clave</string>
+    <string name="btnIngresar">Ingresar</string>
+    <string name="txtElige">Elige el establecimiento</string>
+    <string name="txtElige1">Donde estaciono? - Casinos</string>
+    <string name="txtSeleccionCasino">Seleccione el casino</string>
+    <string name="btnConsultar">Consultar</string>
+    <string name="imgCasinoVictoria">CasinoVictoria</string>
+    <string name="txtFecha">Fecha:</string>
+    <string name="txtHora">Hora:</string>
+    <string name="txtBienvenido">Bienvenido al Casino de Santa Fe</string>
+    
+</resources>

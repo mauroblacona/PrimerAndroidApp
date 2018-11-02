@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    tools:context=".ActividadSeleccionEstablecimiento">
+
+    <ImageView
+        android:id="@+id/imgLogo2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/colorPrimaryDark"
+        android:contentDescription="@string/imgLogo"
+        app:srcCompat="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/txtElige"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:fontFamily="cursive"
+        android:text="@string/txtElige1"
+        android:textAlignment="center"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtSeleccionCasino"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:fontFamily="cursive"
+            android:text="@string/txtSeleccionCasino"
+            android:textAlignment="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp" />
+
+        <Spinner
+            android:id="@+id/spinnerSelector"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp" />
+
+        <Button
+            android:id="@+id/btnConsultar"
+
+            android:layout_width="match_parent"
+            android:layout_height="38dp"
+
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:background="@drawable/buttonshape"
+            android:shadowColor="#080808"
+            android:shadowDx="0"
+            android:shadowDy="0"
+            android:shadowRadius="0"
+            android:text="@string/btnConsultar"
+            android:textColor="#FFFFFF"
+            android:textSize="21sp" />
+    </LinearLayout>
+</LinearLayout>
