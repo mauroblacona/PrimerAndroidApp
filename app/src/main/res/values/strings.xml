@@ -15,5 +15,8 @@
     <string name="txtHora">Hora:</string>
     <string name="txtBienvenido">Bienvenido al Casino de Santa Fe</string>
     <string name="txtLugaresDisponibles">Lugares Disponibles: 15</string>
+    <string name="btnVolver">Volver</string>
+    <string name="btnIrgps">Ir - Gps</string>
+    <string name="title_activity_actividad_mostrar_gps">Map</string>
 
 </resources>
