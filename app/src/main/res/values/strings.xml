@@ -14,5 +14,6 @@
     <string name="txtFecha">Fecha:</string>
     <string name="txtHora">Hora:</string>
     <string name="txtBienvenido">Bienvenido al Casino de Santa Fe</string>
-    
+    <string name="txtLugaresDisponibles">Lugares Disponibles: 15</string>
+
 </resources>
