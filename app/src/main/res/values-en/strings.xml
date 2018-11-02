@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">app_estacionamiento</string>
+    <string name="txtLogo1">Where</string>
+    <string name="txtLogo2">i Park?</string>
+    <string name="imgLogo">Logo</string>
+    <string name="txtUsuario">User</string>
+    <string name="txtClave">Password</string>
+    <string name="btnIngresar">Login</string>
+    <string name="txtElige">Choose the Establishment</string>
+    <string name="txtElige1">Where i Park? - Casinos</string>
+    <string name="txtSeleccionCasino">Select the casino</string>
+    <string name="btnConsultar">Consult</string>
+    <string name="imgCasinoVictoria">CasinoVictoria</string>
+    <string name="txtFecha">Fecha:</string>
+    <string name="txtHora">Hora:</string>
+    <string name="txtBienvenido">Welcome to the Casino Santa Fe</string>
+    <string name="txtLugaresDisponibles">Places Availables: 15</string>
+    <string name="btnVolver">Return</string>
+    <string name="btnIrgps">Go - Gps</string>
+    <string name="title_activity_actividad_mostrar_gps">Map</string>
+    <string name="btnLleno">Full</string>
+    <string name="btnDisponible">Available</string>
+    <string name="btnVacio">Empty</string>
+
+</resources>

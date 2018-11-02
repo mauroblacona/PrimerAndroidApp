@@ -71,7 +71,7 @@
 
             android:layout_margin="30dp"
             android:background="@drawable/botonlleno"
-            android:text="Lleno"
+            android:text="@string/btnLleno"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
 
@@ -84,7 +84,7 @@
             android:layout_marginRight="10dp"
             android:layout_marginTop="30dp"
             android:background="@drawable/botodisponible"
-            android:text="Disponible"
+            android:text="@string/btnDisponible"
             android:textColor="#170404"
             android:textSize="17sp" />
 
@@ -97,7 +97,7 @@
             android:layout_marginLeft="20dp"
             android:layout_marginTop="30dp"
             android:background="@drawable/botonvacio"
-            android:text="Vacio"
+            android:text="@string/btnVacio"
             android:textColor="#170404"
             android:textSize="18sp" />
 

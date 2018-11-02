@@ -18,5 +18,8 @@
     <string name="btnVolver">Volver</string>
     <string name="btnIrgps">Ir - Gps</string>
     <string name="title_activity_actividad_mostrar_gps">Map</string>
+    <string name="btnLleno">Lleno</string>
+    <string name="btnDisponible">Disponible</string>
+    <string name="btnVacio">Vacio</string>
 
 </resources>
