@@ -17,7 +17,7 @@ public class ActividadMostrarDatosEstablecimiento extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_actividad_mostrar_datos_establecimiento);
         mostrarDatos();
-        activarBotones();
+        activarBotones(); 
     }
 
     private void activarBotones() {
@@ -45,6 +45,7 @@ public class ActividadMostrarDatosEstablecimiento extends AppCompatActivity {
         String datoFecha = dff.format(fecha);
         TextView tvDatoFecha = (TextView) findViewById(R.id.tvDatoFecha);
         tvDatoFecha.setText(datoFecha);
+
 
     }
 }
